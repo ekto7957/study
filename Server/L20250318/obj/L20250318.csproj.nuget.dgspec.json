@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\L20250318\\L20250318.csproj": {}
+    "D:\\Unity Project\\TestRepo\\study\\Server\\L20250318\\L20250318.csproj": {}
   },
   "projects": {
-    "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\L20250318\\L20250318.csproj": {
+    "D:\\Unity Project\\TestRepo\\study\\Server\\L20250318\\L20250318.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\L20250318\\L20250318.csproj",
+        "projectUniqueName": "D:\\Unity Project\\TestRepo\\study\\Server\\L20250318\\L20250318.csproj",
         "projectName": "L20250318",
-        "projectPath": "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\L20250318\\L20250318.csproj",
+        "projectPath": "D:\\Unity Project\\TestRepo\\study\\Server\\L20250318\\L20250318.csproj",
         "packagesPath": "C:\\Users\\HJ\\.nuget\\packages\\",
-        "outputPath": "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\L20250318\\obj\\",
+        "outputPath": "D:\\Unity Project\\TestRepo\\study\\Server\\L20250318\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

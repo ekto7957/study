@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\",
+  "WorkspaceRootPath": "D:\\Unity Project\\TestRepo\\study\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3FD68B0-EF38-48B8-8C27-E58388E99DAF}|Client\\Client.csproj|d:\\unity project\\testrepo\\testrepository\\server\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3FD68B0-EF38-48B8-8C27-E58388E99DAF}|Client\\Client.csproj|d:\\unity project\\testrepo\\study\\server\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3FD68B0-EF38-48B8-8C27-E58388E99DAF}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88E9910A-F74A-46BA-B640-41C38E315EFD}|L20250318\\L20250318.csproj|d:\\unity project\\testrepo\\testrepository\\server\\l20250318\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88E9910A-F74A-46BA-B640-41C38E315EFD}|L20250318\\L20250318.csproj|d:\\unity project\\testrepo\\study\\server\\l20250318\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88E9910A-F74A-46BA-B640-41C38E315EFD}|L20250318\\L20250318.csproj|solutionrelative:l20250318\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\Client\\Program.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TestRepo\\study\\Server\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\Client\\Program.cs",
+              "ToolTip": "D:\\Unity Project\\TestRepo\\study\\Server\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T01:21:12.944Z",
               "EditorCaption": ""
@@ -41,14 +41,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\L20250318\\Program.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TestRepo\\study\\Server\\L20250318\\Program.cs",
               "RelativeDocumentMoniker": "L20250318\\Program.cs",
-              "ToolTip": "D:\\Unity Project\\TestRepo\\TestRepository\\Server\\L20250318\\Program.cs",
+              "ToolTip": "D:\\Unity Project\\TestRepo\\study\\Server\\L20250318\\Program.cs",
               "RelativeToolTip": "L20250318\\Program.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAQwAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T00:23:04.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T00:23:04.231Z"
             }
           ]
         }

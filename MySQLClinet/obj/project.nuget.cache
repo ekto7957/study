@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7NsGy+M4x0=",
+  "success": true,
+  "projectFilePath": "D:\\Unity Project\\TestRepo\\study\\MySQLClinet\\MySQLClinet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\HJ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\HJ\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
